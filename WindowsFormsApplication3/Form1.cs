@@ -19,7 +19,7 @@ namespace WindowsFormsApplication3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(4 < 2){
+            if(4 < 1){
             }
             else {
             }
